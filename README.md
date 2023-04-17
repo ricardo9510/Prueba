@@ -7,3 +7,12 @@ Esperar que se instale todas las dependencias requeridas, se creará una carpeta
 Ejecutar el comando npm run dev, dentro de la carpeta del proyecto.
 
 Abrir el loaclhost proporcionado por npm.
+
+Se utilizó 
+
+npm create vite@latest, debido a que create-react-app se encuentra ya descontinuado, para la creación de la aplicación react en su ultima versión
+
+react-router-dom, para la navegación entre rutas
+
+tailwindcss, para replicar el diseño propuesto
+
