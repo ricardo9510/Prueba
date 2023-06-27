@@ -1,4 +1,4 @@
-# PruebaMtc
+# Probar
 
 Ejecutar el comando npm install para instalar las dependencias requeridas, dentro de la carpeta del proyecto.
 
@@ -10,7 +10,7 @@ Abrir el loaclhost proporcionado por npm.
 
 Se utilizó 
 
-npm create vite@latest, debido a que create-react-app se encuentra ya descontinuado, para la creación de la aplicación react en su ultima versión
+npm create vite@latest, para la creación de la aplicación react en su ultima versión
 
 react-router-dom, para la navegación entre rutas
 
